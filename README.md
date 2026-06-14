@@ -29,6 +29,7 @@ Or open a skill file and copy the instruction.
 | [carousel](skills/carousel.md) | A swipeable LinkedIn carousel script |
 | [cold-dm](skills/cold-dm.md) | Outreach messages people actually reply to |
 | [profile](skills/profile.md) | Rewrite your headline and About section |
+| [ai-audit](skills/ai-audit.md) | Scan writing for AI tells and rewrite them out |
 
 ## Why these and not "secret codes"
 
