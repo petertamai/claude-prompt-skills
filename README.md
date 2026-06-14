@@ -1,34 +1,38 @@
 # Claude Prompt Skills
 
-A small library of **prompt skills** that actually change how an AI responds.
+A small library of **prompt skills** for building a personal brand on LinkedIn. Built for founders, consultants, and creators.
 
-Most viral "Claude secret codes" (`/godmode`, `L99`, `BEASTMODE`) do nothing — tested, they get ignored as noise. What works is a **clear instruction**. These files are those instructions, cleaned up and version-controlled.
+Each skill is a clean, reusable instruction set. Load one into Claude, ChatGPT, or Perplexity and it runs the same way every time. No more re-explaining the process in every chat.
 
 ## How to use
 
 Paste this into Claude, ChatGPT, or Perplexity:
 
 > Fetch this and follow it exactly, then apply it to my input below.
-> https://raw.githubusercontent.com/petertamai/claude-prompt-skills/main/skills/humanize.md
+> https://raw.githubusercontent.com/petertamai/claude-prompt-skills/main/skills/linkedin-post.md
 >
-> Input: [your text]
+> Input: [your rough idea]
 
-Or just open a skill file and copy the instruction.
+Or open a skill file and copy the instruction.
 
 ## Skills
 
 | Skill | Does |
 |-------|------|
-| [decisive](skills/decisive.md) | One committed recommendation, no hedging |
+| [linkedin-post](skills/linkedin-post.md) | Turn a rough idea into a strong LinkedIn post |
+| [hooks](skills/hooks.md) | 10 scroll-stopping opening lines |
 | [humanize](skills/humanize.md) | Strip the AI "tells" from writing |
-| [expert-review](skills/expert-review.md) | Blunt review from a specific senior expert |
-| [challenge-question](skills/challenge-question.md) | Challenge the question before answering |
-| [deep-reasoning](skills/deep-reasoning.md) | Thorough, multi-layer analysis |
-| [ooda](skills/ooda.md) | Observe-Orient-Decide-Act crisis decision |
-| [swot](skills/swot.md) | Strengths/Weaknesses/Opportunities/Threats |
-| [five-whys](skills/five-whys.md) | Drill to the root cause |
-| [rice](skills/rice.md) | Score and rank a backlog (RICE) |
-| [premortem](skills/premortem.md) | Surface risks before they bite |
+| [show-dont-tell](skills/show-dont-tell.md) | Make a vague draft specific and believable |
+| [content-ideas](skills/content-ideas.md) | 10 post ideas from your real work |
+| [repurpose](skills/repurpose.md) | One piece into 5 platform-native assets |
+| [why-it-worked](skills/why-it-worked.md) | Reverse-engineer a post that performed |
+| [carousel](skills/carousel.md) | A swipeable LinkedIn carousel script |
+| [cold-dm](skills/cold-dm.md) | Outreach messages people actually reply to |
+| [profile](skills/profile.md) | Rewrite your headline and About section |
+
+## Why these and not "secret codes"
+
+Tested it: viral "codes" like `/godmode`, `L99`, `BEASTMODE` get ignored by the model. What works is a clear instruction. These files are clear instructions for the things people actually ask Claude to do.
 
 ## Free one-click toolkit
 
